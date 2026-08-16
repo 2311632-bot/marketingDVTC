@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
+st.image("logo.jpg")
 # =========================
 # CẤU HÌNH APP
 # =========================
